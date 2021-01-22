@@ -1,0 +1,20 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "![badmath](https://img.shields.io/badge/license-MIT-green)   # Welcome to your new Workout Tracker     ## Description    This application allows you to automatically track your cardio and resistance workouts.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avatl/fitness-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avatl/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/avatl/fitness-tracker#readme"
+}

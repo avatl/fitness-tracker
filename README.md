@@ -3,10 +3,6 @@
   # Welcome to your new Workout Tracker  
   ## Description
    This application allows you to automatically track your cardio and resistance workouts.
-   
-   When you first launch the application you will be prompted to enter a transaction. You are able to make deposits and withdraws.
-      
-   The visualization on the bottom of the application allows you to see your transactions over time. 
     
   ## Hosted Application
   
