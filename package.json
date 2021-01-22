@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/avatl/fitness-tracker/issues"
   },
-  "homepage": "https://github.com/avatl/fitness-tracker#readme"
+  "homepage": "https://github.com/avatl/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
